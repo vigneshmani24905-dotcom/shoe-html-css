@@ -1,0 +1,87 @@
+ nav{
+   background-color: black;
+   color:white;
+   padding:15px;
+   border-radius: 20px;
+   display:block
+ }
+ ul,h1,li{
+   display:inline
+ }
+ ul{
+  margin-left:70%
+ }
+ li{
+  color:grey;
+  cursor:pointer
+ }
+ li:hover{
+  color:white
+ }
+
+.background {
+    background-image: url("ryan-waring-164_6wVEHfI-unsplash.jpg");
+    background-size:contain;
+    background-position: center;
+    height: 100vh;
+    border-radius: 20px;
+    flex-wrap: wrap;
+    height: 550px;
+    
+}
+input{
+  width:60%;
+  padding:15px;
+}
+.searcher{
+    padding:20px;         
+    text-align: center;
+    display:block
+  }
+img{
+  width:300px;
+  height:300px;
+  border-radius: 30px;
+  padding:15px;
+  display:block
+}
+h1,h3,img{
+  color:white;
+  display:inline-block
+}
+.Nike{
+  margin-left: 6%;
+}
+a{
+  color:white
+}
+h3{
+  padding:30px
+}
+.products{
+    
+    display:flex;
+    justify-content: space-between;
+
+}
+.name{
+  color:yellow;
+  margin-left:30px
+}
+.rs{
+  margin-top: 2px;
+  margin-left:30px ;
+}
+.paragraph{
+  text-align: center;
+}
+.paragraph{
+  padding:15px;
+  text-align: center;
+}
+.contact{
+  background-color: black;
+  color:white;
+  text-align: center;
+  border-radius: 30px;
+}
